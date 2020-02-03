@@ -1,0 +1,1 @@
+ACTION=="add", SUBSYSTEM=="usb", RUN+="/usr/bin/docker_device_sync.py"
